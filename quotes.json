@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 2,
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 3,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 4,
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 5,
+      "text": "Stay hungry, stay foolish.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 6,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 7,
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 8,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 9,
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": 10,
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 11,
+      "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+      "author": "Jordan Belfort"
+    },
+    {
+      "id": 12,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": 13,
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "id": 14,
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "id": 15,
+      "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 16,
+      "text": "If you want to achieve greatness stop asking for permission.",
+      "author": "Anonymous"
+    },
+    {
+      "id": 17,
+      "text": "Everything you can imagine is real.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "id": 18,
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": 19,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 20,
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 21,
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 22,
+      "text": "It's not what you look at that matters, it's what you see.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "id": 23,
+      "text": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou"
+    },
+    {
+      "id": 24,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 25,
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 26,
+      "text": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 27,
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 28,
+      "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+      "author": "Christopher Columbus"
+    },
+    {
+      "id": 29,
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 30,
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    {
+      "id": 31,
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 32,
+      "text": "If you're going through hell, keep going.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 33,
+      "text": "The only thing worse than being blind is having sight but no vision.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": 34,
+      "text": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": 35,
+      "text": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 36,
+      "text": "It's not whether you get knocked down, it's whether you get up.",
+      "author": "Vince Lombardi"
+    },
+    {
+      "id": 37,
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "id": 38,
+      "text": "Eighty percent of success is showing up.",
+      "author": "Woody Allen"
+    },
+    {
+      "id": 39,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 40,
+      "text": "Build your own dreams, or someone else will hire you to build theirs.",
+      "author": "Farrah Gray"
+    },
+    {
+      "id": 41,
+      "text": "The two most important days in your life are the day you are born and the day you find out why.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 42,
+      "text": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+    },
+    {
+      "id": 43,
+      "text": "Life shrinks or expands in proportion to one's courage.",
+      "author": "Anais Nin"
+    },
+    {
+      "id": 44,
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh"
+    },
+    {
+      "id": 45,
+      "text": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 46,
+      "text": "The biggest risk is not taking any risk. In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+      "author": "Mark Zuckerberg"
+    },
+    {
+      "id": 47,
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vaughan"
+    },
+    {
+      "id": 48,
+      "text": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+      "author": "Joshua J. Marine"
+    },
+    {
+      "id": 49,
+      "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "author": "Christian D. Larson"
+    },
+    {
+      "id": 50,
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+      "author": "Dr. Seuss"
+    }
+  ]
+  
